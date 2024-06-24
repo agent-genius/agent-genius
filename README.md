@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @agent-genius
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Hariharan R
+- 👀 I’m interested in Software Development, Machine Learning, Programming 
+- 🌱 I’m currently learning Data Science and Electronics and Communication Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haranrhari28@gmail.com
 - 😄 Pronouns: ...his/him
